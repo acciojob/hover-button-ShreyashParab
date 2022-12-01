@@ -3,10 +3,7 @@
 #btn{
   background-color:black;
   color:white;
-  font-size:large;
-  padding:8px 20px;
   border-radius:5px;
-  cursor:pointer;
 }
 
 #btn:hover{
